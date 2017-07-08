@@ -1,11 +1,11 @@
-# t - dynamic typecheck helper
+# dtypecheck - dynamic typecheck helper
 
 Examples:
 
 ### Simple
 
 ```javascript
-const t = require("t");
+const t = require("dtypecheck");
 const {expect} = require("chai");
 
 const fn = t(
@@ -20,7 +20,7 @@ fn([1, 2]) // Bad
 ### Async
 
 ```javascript
-const t = require("t");
+const t = require("dtypecheck");
 const {expect} = require("chai");
 
 const fn = t(
