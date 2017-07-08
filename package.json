@@ -1,16 +1,17 @@
 {
-  "name": "t",
+  "name": "dtypecheck",
   "version": "1.0.0",
   "description": "Dynamic typecheck helper",
   "repository": {
     "type": "git",
-    "url": "git://github.com/darky/t.git"
+    "url": "git@github.com:darky/dtypecheck.git"
   },
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [
+    "dynamic",
     "typecheck",
     "type"
   ],
