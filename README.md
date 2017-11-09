@@ -1,5 +1,7 @@
 # dtypecheck - dynamic typecheck helper
 
+#### Note: It works with `env NODE_ENV=development`
+
 Examples:
 
 ### Simple
